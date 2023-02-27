@@ -9,7 +9,7 @@
   "dependencies": {
     "async": "^2.6.0",
     "graphlib": "^2.1.5",
-    "npm-package-arg": "^6.0.0",
+    "npm-package-arg": "^6.1.1",
     "semver": "^5.5.0",
     "superagent": "^3.8.2"
   }
