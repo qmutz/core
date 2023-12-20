@@ -8,7 +8,7 @@
     "json-stable-stringify": "^1.0.1",
     "lodash": "^4.17.4",
     "semver": "^5.4.1",
-    "superagent": "^3.8.1",
+    "superagent": "^7.0.2",
     "typescript": "^2.6.1",
     "validate-npm-package-name": "^3.0.0"
   }
